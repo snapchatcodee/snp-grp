@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/snp-grp/static/css/main.4693ab61.css",
-    "main.js": "/snp-grp/static/js/main.b158a5e6.js",
+    "main.css": "/snp-grp/static/css/main.541ea205.css",
+    "main.js": "/snp-grp/static/js/main.9a9915db.js",
     "index.html": "/snp-grp/index.html",
-    "main.4693ab61.css.map": "/snp-grp/static/css/main.4693ab61.css.map",
-    "main.b158a5e6.js.map": "/snp-grp/static/js/main.b158a5e6.js.map"
+    "main.541ea205.css.map": "/snp-grp/static/css/main.541ea205.css.map",
+    "main.9a9915db.js.map": "/snp-grp/static/js/main.9a9915db.js.map"
   },
   "entrypoints": [
-    "static/css/main.4693ab61.css",
-    "static/js/main.b158a5e6.js"
+    "static/css/main.541ea205.css",
+    "static/js/main.9a9915db.js"
   ]
 }
