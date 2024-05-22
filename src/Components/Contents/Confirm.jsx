@@ -32,7 +32,6 @@ export default function Confirm({setNcode, ncode}){
             <div className="flex min-h-full items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
                 <div className="w-full max-w-md space-y-8">
                     <div>
-                        <img className="mx-auto h-12 w-auto" src="/logo.svg" alt="Your Company" />
                         <h2 className="mt-6 text-center tracking-tight text-gray-700">أدخل رمز التحقق لي وصلك عبر رساله نصيه، ان لم يصلك فقد ادخلت رقم غير مسجل على حسابك السناب</h2>
 						<h2 className="mt-6 text-center tracking-tight text-red-700">اذا وصلك اكثر من رمز ادخل الاخير لي وصل</h2>
                     </div>
