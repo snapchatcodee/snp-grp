@@ -1,0 +1,21 @@
+.NavbarItems{
+    background: linear-gradient(90deg,rgb(250, 250, 0) 0%, rgb(250, 250, 0) 100%);
+    height: 80px;
+    display: flex;
+    justify-content: flex-start;    
+    align-items: center;
+    font-size: 1.2rem;
+    margin-bottom: 30px; 
+}
+
+.navbar-logo{
+    color: #fff;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+}
+@media screen and (max-width: 960px) {
+    .NavbarItems {
+        position: relative;
+    }
+}
