@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
     "\\src\\Components",
-    "\\src\\Components\\Contents",
     "\\src\\Components\\NavBar"
   ],
-  "SelectedNode": "\\src\\Components\\Contents\\Confirm.jsx",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
